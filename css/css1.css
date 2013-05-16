@@ -1,0 +1,74 @@
+body
+{
+/* background-image:url('images/oceandeep.jpg'); 
+background-repeat:repeat-x;*/
+background-color:#0FA7D2;
+}
+
+div.text1{
+
+
+}
+div.text2{
+top:470px;
+right:120px;
+position:absolute;
+}
+
+div.ex1 {
+color:#ffffff;
+font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+position:absolute;
+top:112px;
+left:90px;
+font-weight:600;
+font-size: 60px;
+padding-left:2px;
+margin: 0; 
+z-index:1;
+letter-spacing:-2px; 
+}
+
+div.ex2 {
+color:#ffffff;
+font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+position:absolute;
+top:140px;
+left:90px;
+font-size: 134px;
+margin: 0;	
+-webkit-font-smoothing: antialiased;    
+line-height:120%; 
+z-index:2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+p.hi{
+       -webkit-transform: rotate(-5deg);
+        -moz-transform: rotate(-5deg);
+        -ms-transform: rotate(-5deg);
+        -o-transform: rotate(-5deg);
+		font-family:'Conv_FuturaStd-ExtraBold'
+		transform: translate3d(0,0,0);
+        color: #ffffff;
+}
+
+p.im{
+       -webkit-transform: rotate(+5deg);
+        -moz-transform: rotate(+5deg);
+        -ms-transform: rotate(+5deg);
+        -o-transform: rotate(+5deg);
+		font-family:'Conv_FuturaStd-ExtraBold';
+		transform: translate3d(0,0,0);
+        color: #ffffff;
+}

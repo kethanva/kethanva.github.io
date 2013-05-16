@@ -1,0 +1,102 @@
+body
+{
+/* background-image:url('images/oceandeep.jpg'); 
+background-repeat:repeat-x;*/
+background-color:#0FA7D2;
+}
+
+p.hi{
+       -webkit-transform: rotate(-5deg);
+        -moz-transform: rotate(-5deg);
+        -ms-transform: rotate(-5deg);
+        -o-transform: rotate(-5deg);
+		font-family:'Conv_FuturaStd-ExtraBold'
+		transform: translate3d(0,0,0);
+        color: #ffffff;
+}
+
+p.im{
+       -webkit-transform: rotate(+5deg);
+        -moz-transform: rotate(+5deg);
+        -ms-transform: rotate(+5deg);
+        -o-transform: rotate(+5deg);
+		font-family:'Conv_FuturaStd-ExtraBold';
+		transform: translate3d(0,0,0);
+        color: #ffffff;
+}
+
+div.ex1 {
+color:#ffffff;
+font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+position:absolute;
+top:112px;
+right:50px;
+font-weight:600;
+font-size: 60px;
+padding-right:1px;margin: 0; z-index:1;
+/* letter-spacing:-1px;  letter-spacing:-5px; */
+}
+
+div.ex2 {
+color:#ffffff;
+font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+position:absolute;
+top:140px;
+right:50px;
+font-size: 134px;margin: 0;	-webkit-font-smoothing: antialiased;    line-height:120%; z-index:2;
+/* letter-spacing:-1px;  letter-spacing:-5px; */
+
+}
+.element
+{ font-size:90px;
+ position:absolute;
+ right:50px;
+ top:143px;
+color:#ffffff;	-webkit-font-smoothing: antialiased;
+
+}
+#element-1
+{ /*color:lightblue;*/
+  z-index:1;
+ font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+font-weight:bold;
+}
+#element-2
+{ /*color:lightgreen; */
+  margin:50px 0 0 50px;
+  z-index:2;
+ font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+padding-top:-12px;
+
+}
+
+
+
+
+
+    h2 {
+    font-family: 'Conv_FuturaStd-Bold';
+    font-size:62px;
+    color:#fff;
+    letter-spacing:-1px;
+    margin-top:10px;
+    font-weight:100;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    height:auto;
+    margin:0;
+    line-height:0%;
+    }
+	    h1 {
+    font-family: 'Conv_FuturaStd-ExtraBold';
+    font-size:168px;
+    color:#fff;
+    letter-spacing:-5px;
+    margin-top:0px;
+    font-weight:100;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    height:auto;
+    margin:0;
+    line-height:76%;
+    }
