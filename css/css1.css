@@ -10,7 +10,7 @@ div.text1{
 
 }
 div.text2{
-top:470px;
+top:500px;
 right:120px;
 position:absolute;
 }
@@ -33,7 +33,7 @@ div.ex2 {
 color:#ffffff;
 font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
 position:absolute;
-top:140px;
+top:128px;
 left:90px;
 font-size: 134px;
 margin: 0;	
@@ -41,13 +41,6 @@ margin: 0;
 line-height:120%; 
 z-index:2;
 }
-
-
-
-
-
-
-
 
 
 
